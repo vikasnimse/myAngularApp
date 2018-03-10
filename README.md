@@ -1,2 +1,0 @@
-# myAngularApp
-App using angular
