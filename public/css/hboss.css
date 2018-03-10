@@ -1,0 +1,17 @@
+.validate-message{
+    color:darkred;
+}
+.navbar-top-links li {
+    display: inline-block;
+}
+.new-order-panel{margin: 0px;}
+#page-wrapper{
+    margin:15px;
+}
+.order-list{
+    border-right: 1px #ddd solid;
+    padding:15px 25px 15px 25px;
+}
+.panel-body{
+    padding:0;
+}
